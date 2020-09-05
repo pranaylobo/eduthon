@@ -1,5 +1,4 @@
 # eduthon
-The Problem:
 Due to the covid-19 pandemic the current education system came to a stand-still.Now we needed to restart the activities such as
 labs,quizzes,online-lectures.Hence our team came up with E-learning Portal.A Portal that bring Virtual-Labs,Test-case environment,developer friendly environment,webinars,lectures
 all at one place.
